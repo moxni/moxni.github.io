@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://moxni.github.io/Fye/sitemap.Fye.gz
